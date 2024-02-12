@@ -1,0 +1,245 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 101%;
+  height: 1200px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_5 {
+  width: 473px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 144px;
+  left: 9px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 128px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_38 {
+  width: 30px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 349px;
+  left: 16px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_41 {
+  width: 30px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 511px;
+  left: 16px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_24 {
+  width: 66px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 757px;
+  left: 821px;
+  font-family: Aktiv Grotesk;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_26 {
+  width: 107px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 757px;
+  left: 1115px;
+  font-family: Aktiv Grotesk;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_25 {
+  width: 66px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 957px;
+  left: 821px;
+  font-family: Aktiv Grotesk;
+  font-weight: SemiBold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_31 {
+  width: 248px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1012px;
+  left: 821px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_33 {
+  width: 248px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 812px;
+  left: 821px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_34 {
+  width: 293px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 807px;
+  left: 1115px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_28 {
+  width: 92px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1130px;
+  left: 1408px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_6 {
+  width: 400px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 16px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_7 {
+  width: 282px;
+  height: 422px;
+  background: url("../images/v2_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 757px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_35 {
+  width: 388px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 504px;
+  left: 153px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v2_43 {
+  width: 431px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 570px;
+  left: 155px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_44 {
+  width: 431px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 609px;
+  left: 155px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v9_45 {
+  width: 388px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 341px;
+  left: 153px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v9_48 {
+  width: 670px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 407px;
+  left: 155px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v9_49 {
+  width: 431px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 446px;
+  left: 155px;
+  font-family: Aktiv Grotesk;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
